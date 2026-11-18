@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>Natchamon Srichaan</title>
+</head>
+<center>
+    <center>
+    <h style="color: blue; background-color: blueviolet; font-style: italic;">ณัฐชมน ศรีชาแอน</h>
+    <h2>ณัฐชมน ศรีชาแอน</h2>
+    <h3>ณัฐชมน ศรีชาแอน</h3>
+    <h4>ณัฐชมน ศรีชาแอน</h4> 
+    <h5>ณัฐชมน ศรีชาแอน</h5>
+    <h6>ณัฐชมน ศรีชาแอน</h6>
+
+    <img src="https://www.i.pinimg.com/736x/fd/30/76/fd307640a9edc55fca111416de144166.jpg"
+    </center>
+    <br/><a href="http:/www.google" style="color: aquamarine;" >google.com.</a>
+    <br/>
+    <a href="https:/www.srinan.ac.th" style="color: aqua;">โรงเรียนสตรีศรีน่าน</a>
+    <p>ฉันคือคนที่สวยที่สุดในจังหวัดน่านเเละเป็นนักเรียนดีเด่นของโรงเรียนสตรีศรีน่าน<br/>จังหวัดน่าน
+    </p>
+    </center>
+</body>
+</html>
